@@ -6,6 +6,25 @@
 
 Insert your truth table here
 
+| A | B | C | D | Y |
+|---|---|---|---|---|
+| 0 | 0 | 0 | 0 | X |
+| 0 | 0 | 0 | 1 | 1 |
+| 0 | 0 | 1 | 0 | 0 |
+| 0 | 0 | 1 | 1 | 1 |
+| 0 | 1 | 0 | 0 | 0 |
+| 0 | 1 | 0 | 1 | 1 |
+| 0 | 1 | 1 | 0 | 0 |
+| 0 | 1 | 1 | 1 | 1 |
+| 1 | 0 | 0 | 0 | 1 |
+| 1 | 0 | 0 | 1 | 0 |
+| 1 | 0 | 1 | 0 | 1 |
+| 1 | 0 | 1 | 1 | 0 |
+| 1 | 1 | 0 | 0 | 1 |
+| 1 | 1 | 0 | 1 | X |
+| 1 | 1 | 1 | 0 | X |
+| 1 | 1 | 1 | 1 | X |
+
 ### Boolean Equation
 
 $$
@@ -27,3 +46,6 @@ You may also wish to run test cases.  The first two rows of the truth table have
 3. Push to GitHub
 4. Submit to Gradescope
 5. Verify submission
+
+
+[def]: image-1.png
